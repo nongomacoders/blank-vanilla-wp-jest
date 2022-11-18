@@ -19,7 +19,7 @@
     "babel-jest": "^24.9.0",
     "jest": "^24.9.0",
     "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "firebase": "^6.4.0"
